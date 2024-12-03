@@ -1,37 +1,44 @@
 [
     {
-        "date": "2024-11-04",
         "title": "Project Proposal",
+        "date": "2024-11-04",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
         "content": "<p>We first begin with submitting our project proposal, containing the proposed fields and tasks for each member. This ensures that everyone is on the same page and that the project progresses smoothly.</p>"
     },
     {
-        "date": "2024-11-15",
         "title": "Start of Website",
+        "date": "2024-11-15",
+        "img": "",
         "content": "<p>During this day, Justin started drafting the website, which is our main platform for presenting this project. Our website includes an introduction, articles, a summary, reflections, a timeline, and the members of the group.</p>"
     },
     {
-        "date": "2024-11-17",
         "title": "Articles",
+        "date": "2024-11-17",
+        "img": "",
         "content": "<p>We start writing articles about the proposed fields. Each member begins to write articles in their proposed field. After writing the article, the members check the content of the articles with each other. On Nov. 26, we finalized the articles in each proposed field.</p>"
     },
     {
-        "date": "2024-11-29",
         "title": "Introduction, Summary, Reflection",
+        "date": "2024-11-29",
+        "img": "",
         "content": "<p>Justin and Andrea started writing the introduction and Justin started writing the summary. Reflection is done by all members. On Dec. 2, we finished the introduction, summary, and reflection.</p>"
     },
     {
-        "date": "2024-11-30",
         "title": "Revision",
+        "date": "2024-11-30",
+        "img": "",
         "content": "<p>Justin rechecked the articles and revised some grammatical errors to ensure the accuracy and quality of the website.</p>"
     },
     {
-        "date": "2024-12-01",
         "title": "Documentation",
+        "date": "2024-12-01",
+        "img": "",
         "content": "<p>During this day, Andrea and Anie begin to complete the documentation. A timeline is made to show the completion of the project.</p>"
     },
     {
-        "date": "2024-12-03",
         "title": "Final Submission",
+        "date": "2024-12-03",
+        "img": "",
         "content": "<p>We submitted the finished website. With that, we are proud of what we have accomplished, and grateful that our hard work has paid off.</p>"
     }
 ]
